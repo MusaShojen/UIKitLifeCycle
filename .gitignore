@@ -1,1 +1,12 @@
+# Игнорировать каталог xcuserdata
+xcuserdata/
+
+# Игнорировать схемы проекта (xcschemes)
+xcschemes/
+
+# Игнорировать личные настройки Xcode, такие как схемы и данные пользователя
+*.xcuserdatad/
+
+
+
 .DS_Store
