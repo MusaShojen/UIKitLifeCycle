@@ -1,14 +1,9 @@
-# Игнорировать каталог xcuserdata
-xcuserdata/
-
-# Игнорировать схемы проекта (xcschemes)
-xcschemes/
-
-# Игнорировать личные настройки Xcode, такие как схемы и данные пользователя
-*.xcuserdatad/
-
-# Игнорировать файлы пользовательского интерфейса Xcode
-*.xcuserstate
-
-
 .DS_Store
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
