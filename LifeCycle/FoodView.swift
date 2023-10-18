@@ -11,9 +11,9 @@ import UIKit
 
 class FoodView: UIViewController {
     
-    var calories: Double
-    var titleName: String
-    var nutrition: Nutrition
+    let calories: Double
+    let titleName: String
+    let nutrition: Nutrition
     
     
     init(nutrition: Nutrition) {
